@@ -1,0 +1,24 @@
+html, body {
+    height: 100%;
+}
+
+#container {
+    min-height: 100%;
+}
+
+#text-container {
+    margin-top: 80px;
+    margin-bottom: 80px;
+}
+
+@media (min-width: 600px){
+    #text-container {
+        margin-top: 100px;
+    }
+}
+
+@media (min-width: 1700px){
+    #text-container {
+        margin-top: 150px;
+    }
+}
