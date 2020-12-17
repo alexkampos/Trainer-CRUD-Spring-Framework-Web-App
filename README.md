@@ -1,4 +1,16 @@
-**Implementation of CRUD Trainer using Spring Framework.**
 
-In this project I make use of Spring Boot, Spring MVC and Spring Data from Spring Framework.
-I implement the database, back end and front end.
+## Name
+
+Trainer CRUD
+
+## Description
+
+School system's Trainer CRUD operations implemented like:\
+\
+&emsp;&#8226;&emsp;Create Trainer\
+\
+&emsp;&#8226;&emsp;Read Trainer details\
+\
+&emsp;&#8226;&emsp;Update Trainer details\
+\
+&emsp;&#8226;&emsp;Delete Trainer\
