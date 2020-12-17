@@ -6,5 +6,5 @@ first_name VARCHAR(30) NOT NULL,
 last_name VARCHAR(30) NOT NULL,
 age INT NOT NULL,
 PRIMARY KEY (trainer_id),
-UNIQUE (first_name,last_name,subject)
+UNIQUE (first_name,last_name)
 );
