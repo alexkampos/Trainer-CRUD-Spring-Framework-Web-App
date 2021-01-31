@@ -5,7 +5,7 @@ Trainer CRUD
 
 ## Description
 
-School system's Trainer CRUD operations implemented like:\
+School system's Trainer CRUD operations implemented are:\
 \
 &emsp;&#8226;&emsp;Create Trainer\
 \
